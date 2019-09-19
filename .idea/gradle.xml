@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libraryku" />
+            <option value="$PROJECT_DIR$/testlibrarydjamel" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

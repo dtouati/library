@@ -1,4 +1,4 @@
-package com.example.ricoclass;
+package com.example.libraryku;
 
 public class Player {
 

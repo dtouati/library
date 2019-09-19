@@ -1,2 +1,2 @@
-include ':app', ':libraryku'
+include ':app', ':libraryku', ':testlibrarydjamel'
 rootProject.name='RicoClass'
